@@ -1,1 +1,1 @@
-# python-project simple syaban
+# python-project simple by Kazuka
