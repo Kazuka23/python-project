@@ -1,8 +1,3 @@
-"""
-Dompet Aset Digital
-A simple CLI-based digital asset wallet application.
-"""
-
 from datetime import datetime
 
 
